@@ -1,0 +1,7 @@
+build/
+out/
+*.class
+.gradle
+.DS_Store
+www/public
+.idea/
