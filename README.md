@@ -1,3 +1,5 @@
+This is a project created during CS346 - App Development. In teams of 4, we developed a TODO List desktop application over four 2-week sprints. The app was created in Kotlin and includes an accompanying command line interface with basic functionality.
+
 # TrackIT
 
 A TODO List application for Desktop (Windows, Linux, or macOS)
